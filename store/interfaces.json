@@ -1,0 +1,7 @@
+{
+  "categorias-destacadas": {
+    "component": "CategoriasDestacadas",
+    "composition": "children",
+    "allowed": "*"
+  }
+}
